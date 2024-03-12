@@ -28,6 +28,6 @@ Developed By Akanksha Kumari
 
 ## ScreenShot
 
-![Screenshot of My App]()
+![Screenshot of My App](https://raw.githubusercontent.com/Akankshadevloper/Game-/master/Screenshot%20(517).png)
 
 
