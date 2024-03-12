@@ -26,3 +26,8 @@ This is a simple web-based implementation of the classic Rock Paper Scissors gam
 
 Developed By Akanksha Kumari
 
+##ScreenShot
+
+![Screenshot of My App](file:///C:/Users/Akanksha/Downloads/Screenshot%20(517).png)
+
+
