@@ -11,9 +11,9 @@ This is a simple web-based implementation of the classic Rock Paper Scissors gam
 
 
 ## Technologies Used
-. HTML
-. CSS
-. JavaScript
+1. HTML
+2. CSS
+3. JavaScript
 
 ## How to Play
 1. Open the index.html file in your web browser.
@@ -21,4 +21,8 @@ This is a simple web-based implementation of the classic Rock Paper Scissors gam
 3. See the result of the game against the computer.
 4. Keep playing and try to beat the computer's score!
 
+
+## Credits
+
+Developed By Akanksha Kumari
 
